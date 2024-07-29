@@ -22,5 +22,6 @@ urlpatterns = [
     path('', include('landingPage.urls')),
     # path('company/', include('company.urls')),
     # path('candidate/', include('candidate.urls')),
+    path('auction/', include('auction.urls')),
 
 ]

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'candidate',
     'company',
     'landingPage',
+    'auction',
     
 ]
 
